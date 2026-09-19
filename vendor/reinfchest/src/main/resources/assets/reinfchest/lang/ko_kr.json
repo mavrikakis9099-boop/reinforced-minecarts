@@ -1,0 +1,22 @@
+{
+  "container.reinfchest.copperChest": "구리 상자",
+  "container.reinfchest.ironChest": "철 상자",
+  "container.reinfchest.goldChest": "금 상자",
+  "container.reinfchest.diamondChest": "다이아몬드 상자",
+  "container.reinfchest.netheriteChest": "네더라이트 상자",
+  "container.reinfchest.copperChestDouble": "큰 구리 상자",
+  "container.reinfchest.ironChestDouble": "큰 철 상자",
+  "container.reinfchest.goldChestDouble": "큰 금 상자",
+  "container.reinfchest.diamondChestDouble": "큰 다이아몬드 상자",
+  "container.reinfchest.netheriteChestDouble": "큰 네더라이트 상자",
+  "block.reinfchest.copper_chest": "구리 상자",
+  "block.reinfchest.iron_chest": "철 상자",
+  "block.reinfchest.gold_chest": "금 상자",
+  "block.reinfchest.diamond_chest": "다이아몬드 상자",
+  "block.reinfchest.netherite_chest": "네더라이트 상자",
+  "stat.reinfchest.open_copper_chest": "구리 상자가 열림",
+  "stat.reinfchest.open_iron_chest": "철 상자가 열림",
+  "stat.reinfchest.open_gold_chest": "금 상자가 열림",
+  "stat.reinfchest.open_diamond_chest": "다이아몬드 상자가 열림",
+  "stat.reinfchest.open_netherite_chest": "네더라이트 상자가 열림"
+}

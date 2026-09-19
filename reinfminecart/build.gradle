@@ -1,0 +1,12 @@
+version = "1.0.0+26.2"
+base { archivesName = 'reinforced-minecarts' }
+
+dependencies {
+    implementation project(':reinfchest')
+    compileOnly project(':reinfcore')
+}
+
+processResources {
+    inputs.property 'version', project.version
+    filesMatching('fabric.mod.json') { expand 'version': project.version }
+}

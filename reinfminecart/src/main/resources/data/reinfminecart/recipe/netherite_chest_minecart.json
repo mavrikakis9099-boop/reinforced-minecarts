@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "reinfchest:netherite_chest",
+    "minecraft:minecart"
+  ],
+  "result": {
+    "id": "reinfminecart:netherite_chest_minecart"
+  }
+}

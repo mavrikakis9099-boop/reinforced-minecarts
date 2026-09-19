@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "reinfchest:gold_chest",
+    "minecraft:minecart"
+  ],
+  "result": {
+    "id": "reinfminecart:gold_chest_minecart"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "reinfminecart:item/iron_chest_minecart"
+  }
+}

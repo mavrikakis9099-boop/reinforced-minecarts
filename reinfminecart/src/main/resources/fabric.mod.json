@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "reinfminecart",
+  "version": "${version}",
+  "name": "Reinforced Minecarts",
+  "description": "Vanilla-like chest minecarts with Reinforced Chests tier capacities.",
+  "authors": [
+    "Nicholas Mavrikakis"
+  ],
+  "contributors": [
+    "Aton-Kish (Reinforced Storage foundation)"
+  ],
+  "license": "MIT",
+  "icon": "assets/reinfminecart/icon.png",
+  "environment": "*",
+  "contact": {
+    "homepage": "https://github.com/mavrikakis9099-boop/reinforced-minecarts",
+    "sources": "https://github.com/mavrikakis9099-boop/reinforced-minecarts",
+    "issues": "https://github.com/mavrikakis9099-boop/reinforced-minecarts/issues"
+  },
+  "entrypoints": {
+    "main": [
+      "mavrikakis.reinfminecart.ReinforcedMinecartsMod"
+    ],
+    "client": [
+      "mavrikakis.reinfminecart.ReinforcedMinecartsClientMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*",
+    "reinfchest": ">=4.0.0-beta",
+    "reinfcore": ">=4.0.9"
+  }
+}
