@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "reinfchest",
+  "version": "${version}",
+  "name": "Reinforced Chests 26.2 Compatibility Port",
+  "description": "Compatibility-first 26.2 port preserving Aton-Kish Reinforced Chests world identifiers.",
+  "authors": [
+    "Aton-Kish",
+    "26.2 compatibility port"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*",
+    "reinfcore": ">=4.0.9"
+  },
+  "entrypoints": {
+    "main": [
+      "atonkish.reinfchest.ReinforcedChestsMod"
+    ],
+    "client": [
+      "atonkish.reinfchest.ReinforcedChestsClientMod"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["MMM", "MCM", "MMM"],
+  "key": {
+    "C": "reinfchest:gold_chest",
+    "M": "minecraft:diamond"
+  },
+  "result": {
+    "count": 1,
+    "id": "reinfchest:diamond_chest"
+  }
+}

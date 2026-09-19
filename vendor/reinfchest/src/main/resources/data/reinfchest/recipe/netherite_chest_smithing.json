@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:netherite_ingot",
+  "base": "reinfchest:diamond_chest",
+  "result": {
+    "count": 1,
+    "id": "reinfchest:netherite_chest"
+  },
+  "template": "minecraft:netherite_upgrade_smithing_template"
+}

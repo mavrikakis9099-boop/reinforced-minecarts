@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["MMM", "MCM", "MMM"],
+  "key": {
+    "C": "reinfchest:iron_chest",
+    "M": "minecraft:gold_ingot"
+  },
+  "result": {
+    "count": 1,
+    "id": "reinfchest:gold_chest"
+  }
+}
