@@ -1,0 +1,13 @@
+pluginManagement {
+    repositories {
+        maven { url = 'https://maven.fabricmc.net/' }
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = 'reinforced-minecarts'
+
+include 'reinfcore', 'reinfchest', 'reinfminecart'
+project(':reinfcore').projectDir = file('vendor/reinfcore')
+project(':reinfchest').projectDir = file('vendor/reinfchest')
+project(':reinfminecart').projectDir = file('reinfminecart')
